@@ -10,12 +10,12 @@ U盘用于安装系统，会被格式化。
    
 我下载的是ubuntu linux 20.04（官网下载），文件大小大约为3GB
 #### 1.4下载软件‘软碟通’
-之后操作按照下列网站操作即可：https://blog.csdn.net/qq_43106321/article/details/105361644?utm_source=app&app_version=5.3.0&code=app_1562916241&uLinkId=usr1mkqgl919blen
+之后操作按照下列网站操作即可:[安装双系统](https://blog.csdn.net/qq_43106321/article/details/105361644?utm_source=app&app_version=5.3.0&code=app_1562916241&uLinkId=usr1mkqgl919blen)  
 或在CSDN搜索：Windows 10 安装ubuntu 18.04 双系统（超详细教程）
 完全按照其操作即可，无注意事项。
 
 ## 二、利用虚拟机运行Linux（但是我的电脑运行非常卡）
-操作完全按照以下网址操作即可：https://blog.csdn.net/qq_43015237/article/details/109234454?utm_source=app&app_version=5.3.0&code=app_1562916241&uLinkId=usr1mkqgl919blen
+操作完全按照以下网址操作即可：[虚拟机安装linux](https://blog.csdn.net/qq_43015237/article/details/109234454?utm_source=app&app_version=5.3.0&code=app_1562916241&uLinkId=usr1mkqgl919blen)
 
 或在CSDN搜索名称：虚拟机VMware和Ubuntu的安装与配置教程（超详细，实验可行）
 
