@@ -21,6 +21,8 @@ U盘用于安装系统，会被格式化。
 
 虚拟机下载教程看这个视频：VMware16虚拟机安装激活使用一条龙保姆级详细教程_哔哩哔哩_bilibili。
 下载的安装包如果找不到,可以找我要安装包，可以QQ发，也可以用U盘。
+## 三、删除ubuntu系统
+按照以下教程:[Windows+Ubuntu双系统如何彻底删除Ubuntu操作系统](https://blog.csdn.net/lele_god/article/details/109046860?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522165812359216781685346918%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=165812359216781685346918&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-3-109046860-null-null.142^v32^pc_rank_34,185^v2^control&utm_term=%E5%A6%82%E4%BD%95%E5%88%A0%E9%99%A4ubuntu%E7%B3%BB%E7%BB%9F&spm=1018.2226.3001.4187)  
 # Linux安装VPN
 1.按照windows系统新建一个文件夹clash
 
