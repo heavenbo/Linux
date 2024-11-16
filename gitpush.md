@@ -17,4 +17,4 @@ git merge origin/main，成功后应该可以看到文件夹里多了README.md�
 `git commit -m "标注这次的修改"`  
 `git push`  
 # 拉取文件
-git pull:即为拉取文件到对应本地仓库
+git pull:即为拉取文件到本地仓库
