@@ -12,6 +12,7 @@
 `git checkout -b main`
 ## 1.6快速拉取
 如果本地是空文件夹，执行`git pull`
+
 如果本地仓库有东西，但是是初次上传，执行`git push --set-upstream origin main`
 ## 1.7合并远程分支和本地分支
 `git merge origin/main`，成功后应该可以看到文件夹里多了README.md。
