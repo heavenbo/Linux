@@ -11,14 +11,3 @@
   在右侧菜单栏中找到SSH and GPG keys，选择new SSH key，输入title， 
   下面key的内容就是本机ssh key 公钥，直接将id_rsa.pub中的内容粘贴过来就可以， 
   然后点击下面的add SSH key即可完成.
-# 上传本地文件
-`cd 目标文件夹`  
-`git init`  
-`git add 目标文件`  
-`git commit -m "first"`  
-## 创建项目
-在github中创建一个项目，带README.md的,复制ssh
-## 上传
-`git remote add origin 复制的ssh`  
-`git branch -m main`  
-`git push -f origin main`  
