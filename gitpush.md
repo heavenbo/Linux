@@ -1,7 +1,7 @@
 # 操作
 首先参照[git](https://github.com/heavenbo/Linux/blob/main/git.md)进行操作
 # 创建项目
-在github中创建一个项目(带README.md),然后复制其ssh
+在github中创建一个项目(带README.md),然后复制其ssh或者是https（一种失败可以换另外一种）
 # 添加远程
 git remote add origin 复制的ssh
 # 快速拉取
