@@ -21,4 +21,4 @@ git merge origin/main，成功后应该可以看到文件夹里多了README.md�
 `初次上传使用git push --set-upstream origin main`
 # 拉取文件
 git pull:即为拉取文件到本地仓库
-git merge origin/main
+如果拉取文件没有变化，再使用git merge origin/main
