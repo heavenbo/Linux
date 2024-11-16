@@ -16,7 +16,7 @@
 `git merge origin/main`，成功后应该可以看到文件夹里多了README.md。
 # 二、后续操作
 ## 2.1上传本地文件
-`git add` 目标文件（一般为`git add . `意为上传该文件夹所有内容）
+`git add 目标文件`（一般为`git add . `意为上传该文件夹所有内容）
 `git commit -m "标注这次的修改"`  
 `git push`  
 初次上传使用`git push --set-upstream origin main`
