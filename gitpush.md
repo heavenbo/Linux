@@ -7,8 +7,10 @@
 `git init`  
 # 添加远程
 git remote add origin 复制的ssh
+# 创建本地仓库分支并转移到其中
+git checkout -b main
 # 快速拉取
-git fetch origin
+git pull
 # 合并远程分支和本地分支
 git merge origin/main，成功后应该可以看到文件夹里多了README.md。
 
@@ -18,3 +20,4 @@ git merge origin/main，成功后应该可以看到文件夹里多了README.md�
 `git push`  
 # 拉取文件
 git pull:即为拉取文件到本地仓库
+git merge origin/main
