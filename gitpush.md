@@ -7,7 +7,7 @@ git remote add origin 复制的ssh
 # 快速拉取
 git fetch origin
 # 合并远程分支和本地分支
-git merge origin/main
+git merge origin/main，成功后应该可以看到文件夹里多了README.md。
 # 配置完成
 git push:即为上传文件到对应远程仓库
 
