@@ -7,9 +7,7 @@
 
 ### 手动安装
 
-首先在[Release](https://github.com/IntelRealSense/librealsense/releases)中找到对应版本,如下
-
-![release_page](/image_realsense/release_page.png "release")  
+首先在[Release](https://github.com/IntelRealSense/librealsense/releases)中找到对应版本
 然后在Assets中下载所需的压缩包,在文件下载处，打开终端
 ```
   tar -zxvf librealsense-2.48.0.tar.gz
