@@ -26,7 +26,8 @@
 
 如果拉取文件没有变化，再使用`git merge origin/<branch>`这是当前的远程分支
 ## 2.3上传到不同分支（这次操作只需在第一次创建远程分支执行）
-`git checkout -b <newbranch>` 创建新分支并转移到其中
-`git add 目标文件`
-`git commit -m "标注这次的修改"`
-`git push -u --set-upstream origin <newbranch>``-u`表示强制上传，这样会使得远程仓库直接创建新分支
+`git checkout -b <newbranch>` 创建新分支并转移到其中  
+`git add 目标文件`  
+`git commit -m "标注这次的修改"`  
+`git push -u --set-upstream origin <newbranch>``-u`表示强制上传，这样会使得远程仓库直接创建新分支  
+ 
