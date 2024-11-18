@@ -21,7 +21,6 @@
 `git add 目标文件`（一般为`git add . `意为上传该文件夹所有内容）
 `git commit -m "标注这次的修改"`  
 `git push`  
-初次上传使用`git push --set-upstream origin main`
 ## 2.2拉取文件
 `git pull`
 
