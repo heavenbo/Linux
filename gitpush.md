@@ -10,9 +10,9 @@
 `git remote add origin 复制的ssh`
 ## 1.5创建本地仓库分支并转移到分支
 `git checkout -b main`
-## 1.6 指定远程分支与本地分支连接
+## 1.6指定远程分支与本地分支连接
 `git branch --set-upstream-to=origin/main main`其中`origin/main`表示远程仓库的main分支，后面的`main`表示本地仓库分支
-## 1.6快速拉取
+## 1.7快速拉取
 如果本地是空文件夹，执行`git pull`
 
 如果本地仓库有东西，执行`git push`
