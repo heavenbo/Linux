@@ -15,9 +15,7 @@
 ## 1.6快速拉取
 如果本地是空文件夹，执行`git pull`
 
-如果本地仓库有东西，但是是初次上传，执行`git push --set-upstream origin main`
-## 1.7合并远程分支和本地分支
-`git merge origin/main`，成功后应该可以看到文件夹里多了README.md。
+如果本地仓库有东西，执行`git push`
 # 二、后续操作
 ## 2.1上传本地文件
 `git add 目标文件`（一般为`git add . `意为上传该文件夹所有内容）
