@@ -13,4 +13,4 @@
   然后点击下面的add SSH key即可完成.
 
   ## git clone指定分支
-  git clone -b <branchname> <remote-repo-url>
+  git clone -b branchname remote-repo-url
