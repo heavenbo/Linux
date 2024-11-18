@@ -11,3 +11,6 @@
   在右侧菜单栏中找到SSH and GPG keys，选择new SSH key，输入title， 
   下面key的内容就是本机ssh key 公钥，直接将id_rsa.pub中的内容粘贴过来就可以， 
   然后点击下面的add SSH key即可完成.
+
+  ## git clone指定分支
+  git clone -b <branchname> <remote-repo-url>
