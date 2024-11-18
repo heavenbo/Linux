@@ -29,5 +29,5 @@
 `git checkout -b <newbranch>` 创建新分支并转移到其中  
 `git add 目标文件`  
 `git commit -m "标注这次的修改"`  
-`git push -u --set-upstream origin <newbranch>``-u`表示强制上传，这样会使得远程仓库直接创建新分支  
+`git push -u --set-upstream origin <newbranch>` `-u`表示强制上传，这样会使得远程仓库直接创建新分支  
  
