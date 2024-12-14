@@ -13,7 +13,7 @@
 ## 1.6指定远程分支与本地分支连接
 `git add .`  
 `git commit -m "ini"`创建初始提交  
-`git fetch origin` 更新远端分支信息
+`git fetch origin` 更新远端分支信息  
 `git branch --set-upstream-to=origin/main main`，其中`origin/main`表示远程仓库的main分支，后面的`main`表示本地仓库分支
 ## 1.7快速拉取
 初始创建时，使用`git pull origin main --allow-unrelated-histories`  
