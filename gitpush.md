@@ -11,13 +11,12 @@
 ## 1.5创建本地仓库分支并转移到分支
 `git checkout -b main`
 ## 1.6指定远程分支与本地分支连接
-`git add .`
-`git commit -m "ini"`创建初始提交
+`git add .`  
+`git commit -m "ini"`创建初始提交  
+`git fetch origin` 更新远端分支信息
 `git branch --set-upstream-to=origin/main main`，其中`origin/main`表示远程仓库的main分支，后面的`main`表示本地仓库分支
 ## 1.7快速拉取
-如果本地是空文件夹，执行`git pull`
-
-如果本地仓库有东西，执行`git push`
+初始创建时，使用`git pull origin main --allow-unrelated-histories`
 # 二、后续操作
 ## 2.1上传本地文件
 `git add 目标文件`（一般为`git add . `意为上传该文件夹所有内容）
