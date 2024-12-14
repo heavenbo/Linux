@@ -16,7 +16,7 @@
 `git fetch origin` 更新远端分支信息
 `git branch --set-upstream-to=origin/main main`，其中`origin/main`表示远程仓库的main分支，后面的`main`表示本地仓库分支
 ## 1.7快速拉取
-初始创建时，使用`git pull origin main --allow-unrelated-histories`
+初始创建时，使用`git pull origin main --allow-unrelated-histories`  
 并且如果进入vim模式时，使用`:qa`退出
 # 二、后续操作
 ## 2.1上传本地文件
