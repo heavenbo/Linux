@@ -17,6 +17,7 @@
 `git branch --set-upstream-to=origin/main main`，其中`origin/main`表示远程仓库的main分支，后面的`main`表示本地仓库分支
 ## 1.7快速拉取
 初始创建时，使用`git pull origin main --allow-unrelated-histories`
+并且如果进入vim模式时，使用`:qa`退出
 # 二、后续操作
 ## 2.1上传本地文件
 `git add 目标文件`（一般为`git add . `意为上传该文件夹所有内容）
