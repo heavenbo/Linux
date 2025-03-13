@@ -8,8 +8,8 @@ the desktop is in /usr/share/applications/google-chrome.desktop,and just change 
 ## command
 `export all_proxy="socks5://127.0.0.1:7890"`
 
-`export http_proxy="http://127.0.0.1:1087/"`
+`export http_proxy="http://127.0.0.1:7890"`
 
-`export https_proxy="https://127.0.0.1:1087/"`
+`export https_proxy="https://127.0.0.1:7890"`
 
 ## wirte in .bashrc or .zshrc
