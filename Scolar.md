@@ -1,3 +1,3 @@
-Docker
-大模型训练
-RTOS
+- Docker  
+- 大模型训练  
+- RTOS
