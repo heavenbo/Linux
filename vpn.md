@@ -22,7 +22,7 @@
    
 10.打开电脑设置，选择网络，这一步参照Linux使用教程的步骤五即可
 
-11.之后点击网页的Linux使用教程的步骤四的 Clash Dashboard 
+11.之后点击网页[Clash Dashboard]([https://example.com](https://clash.razord.top/#/proxies))
 
 12.进行切换节点、测延迟等操作。
 
