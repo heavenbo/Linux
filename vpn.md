@@ -1,4 +1,5 @@
-# Linux安装VPN
+# Linux VPN
+## 安装VPN
 1.按照windows系统新建一个文件夹clash
 
 2.进入网址https://ppv2.cc 找到Linux使用教程下载客户端，下载文件**clash-linux-amd64-v3-v1.10.0.gz**
@@ -9,7 +10,7 @@
 
 5.执行命令`gzip -d clash-linux-amd64-v3-v1.10.0.gz`，解压文件
 
-6.再执行：`mv clash-linux-amd64-v3-v1.10.0 clash`，进行重命名。（在Linux中ctr+c与ctr+v复制粘贴功能只在文件管理器中有用，在终端中只能运用鼠标右键进行复制粘贴）
+6.再执行：`mv clash-linux-amd64-v3-v1.10.0 clash`，进行重命名。（在Linux中ctr+c与ctr+v复制粘贴功能只在文件管理器中有用，在终端中ctr+shift+c和ctr+shift+v进行复制粘贴）
 
 7.复制指令`wget -O config.yaml https://ppv2.cc/link/XkrbmwzF1W9mNk4x?clash=1`
 
@@ -22,8 +23,13 @@
    
 10.打开电脑设置，选择网络，这一步参照Linux使用教程的步骤五即可
 
-11.之后点击网页[Clash Dashboard]([https://example.com](https://clash.razord.top/#/proxies))
+11.之后点击网页[Clash Dashboard](https://clash.razord.top/#/proxies)
 
 12.进行切换节点、测延迟等操作。
 
 **注意事项**：在以后开机使用VPN后都要使用./clash -d .命令打开程序。并且不能关闭此终端。（可以另起一个终端页面实行其他命令）
+
+## 命令行启动
+- `cd ~/clash`
+- `screen ./clash -d ./`（提示没有screen的话，执行`sudo apt install screen`）
+- 之后使用ctr+a+d可以将程序隐藏到后台
