@@ -16,7 +16,7 @@
 8.执行指令：`chmod +x clash`
 
 9.再执行指令：`./clash -d .` 会出现如图画面即可
-          <img width="705" alt="图片1" src="https://user-images.githubusercontent.com/102459021/161947290-0c679de2-73e1-4cb7-90d1-87656e8cf2e1.png">
+          <img width="705" alt="图片1" src=photo\clash.png>
 
    **注：这一步后可以按ctr+c调出命令行**
    
