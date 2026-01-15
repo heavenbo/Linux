@@ -4,7 +4,7 @@
 ## wirte in desktop
 the desktop is in /usr/share/applications/google-chrome.desktop,and just change the exec.
 
-- ` <b>abc</b> to **Exec=/usr/bin/google-chrome-stable --proxy-server="socks://localhost:7890"%U**`
+-  **Exec=/usr/bin/google-chrome-stable%U** `change to` **Exec=/usr/bin/google-chrome-stable --proxy-server="socks://localhost:7890"%U**
 -  `sudo update-desktop-database /usr/share/applications`
 -  `nautilus -q`
 
